@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="dice_image_cd">Dice Image</string>
+    <string name="number_of_die">Number of die:</string>
+    <string name="hint_num_text">3</string>
+    <string name="num_of_dice">1</string>
+</resources>
